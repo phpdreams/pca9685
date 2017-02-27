@@ -1,0 +1,19 @@
+{
+    "name": "phpdreams/pca9685",
+    "description": "PHP Class to enable control of the Adafruit PCA9685 16-channel PWM/Servo I2C Interface",
+    "license": "MIT",
+    "keywords": ["raspberry","pi","pca9685","pwm","servo","adafruit","php"],
+    "authors": [
+        {
+            "name": "Bill Wheeler",
+            "email": "admin@phpdreams.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {
+            "PHPDreams\\PCA9685\\": "src"
+        }
+    }
+}
